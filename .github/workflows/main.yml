@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hello0zaizai/getting-started-app:latest          
+          tags: hello0zaizai/getting-started-app:v1          
